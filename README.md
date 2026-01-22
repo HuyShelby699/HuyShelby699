@@ -1,10 +1,8 @@
-# Hi 👋, I'm Pham Quang Huy
+# Hi 👋, I'm Huy Quang
 
 ### Full Stack Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HuyShelby699&label=Profile views&color=0e75b6&style=flat" alt="HuyShelby699" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuyShelby699" alt="HuyShelby699" /></a> </p>
 
 - 🔭 I'm currently working on **an Ecommerce Website project**
 
